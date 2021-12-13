@@ -63,15 +63,6 @@ class DraftListView(LoginRequiredMixin, ListView):
 
 
 
-
-
-
-
-
-
-
-
-
 ####################################
 ###################################
 @login_required
